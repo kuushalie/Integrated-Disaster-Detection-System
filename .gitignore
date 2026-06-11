@@ -1,0 +1,18 @@
+# Arduino build artifacts
+build/
+*.elf
+*.hex
+*.map
+*.bin
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Arduino IDE 2.x cache
+.arduino15/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
